@@ -1,6 +1,7 @@
 # Hackathon-Think-Mania
 Collaborators
-1. Dharani raj
+1. Dharani Raj
+<br/>
 git hub - https://github.com/G-Dharani-raj/
 
 2. Chandra Shekhar Joshi
