@@ -12,8 +12,9 @@ Collaborators
 - Bhavesh Kumar
 - my git hub 👉 https://github.com/bhaveshkumar96
 
-- This is a Guessing game , You just have to Guess the movie name by the emojis shown, it was a collaborative project
-- Objective was to build a full stack MERN game application and we have to use Typescript in just 48 hours during hackathon event
+- This is a Guessing game 😁 , You just have to Guess the movie 🎥🎬 name by the emojis shown, it was a collaborative 👭👭 project
+- Objective was to build a full stack MERN game application and we have to use Typescript in just ⌚⌛⏳⏲ 48 hours during hackathon event
+- About game - You'll be getting 5️⃣ question in total in which you have to guess the movie name and if you know the answer press the buzzer before ⌛ timer gets 0️⃣ if it gets 0️⃣ you'll lose 1️⃣ chance out of 5️⃣ , in just 5️⃣ chance you have to score 6️⃣ or more and you'll be winner if you don't then you'll lose , you have to give right answer to get 2 points for each question , Best of luck ✌
 - Starting page or Loader
 ![Screenshot (61)](https://user-images.githubusercontent.com/110034571/222943591-1c600d4b-2411-4454-bf6e-98ffbb795c21.png)
 
